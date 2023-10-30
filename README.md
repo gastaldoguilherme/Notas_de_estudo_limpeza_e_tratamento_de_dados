@@ -37,6 +37,16 @@
   
   [Documentação Python](https://docs.python.org/pt-br/3/tutorial/)
   
+
+  [Documentação Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
+  
+
+  [Documentação Seaborn](https://seaborn.pydata.org/tutorial/introduction.html)
+
+  
+  [Documentação Statistics](https://docs.python.org/pt-br/dev/library/statistics.html)
+
+
   [Udemy - Formação Cientista de Dados (Fernando Amaral)](https://www.udemy.com/course/cientista-de-dados/)
 
 
